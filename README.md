@@ -73,6 +73,12 @@ Here is the list of components needed. I have chosen the manufacturers as exampl
 | C9                             | 1        | KEMET               | C315C105K3R5TA              | Multilayer  Ceramic Capacitors MLCC - Leaded 25volts 1uF 10% X7R |
 | C1, C2, C3, C4, C5, C6, C7, C8 | 8        |                     |                             | Ceramic  Disc Capacitors 100nF -20%~+80% 50V Through Hole,P=2.54mm RoHS |
 
+## PCB
+
+The PCB can either be ordered directly from [PCBWay](https://www.pcbway.com/project/shareproject/ZX1541_Interface_in_THT.html), or you can create it yourself from the Gerber files available here.
+
+[![PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com/project/shareproject/ZX1541_Interface_in_THT.html)
+
 
 
 If you liked my project, I would be very happy about a small coffee donation.
